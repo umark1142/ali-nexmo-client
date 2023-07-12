@@ -1,0 +1,28 @@
+{
+  "name": "ali/nexmo/client",
+  "description": "PHP Client for using Nexmo's API.",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    
+    {
+      "name": "Umar Khalid",
+      "email": "umark1142@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Ali Ahmad",
+      "email": "alimughalktech@gmail.com",
+      "role": "Developer"
+    }
+    
+  ],
+  "support": {
+    "email": "alimughalktech@gmail.com"
+  },
+  "require": {
+    "php": ">=8.0",
+    "guzzlehttp/guzzle": "^7.0",
+    "nexmo/client-core": "^2.9.2"
+  }
+}
