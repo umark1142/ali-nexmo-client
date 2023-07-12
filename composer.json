@@ -1,5 +1,5 @@
 {
-  "name": "ali/nexmo/client",
+  "name": "umar/nexmo/client",
   "description": "PHP Client for using Nexmo's API.",
   "license": "MIT",
   "type": "library",
@@ -18,7 +18,7 @@
     
   ],
   "support": {
-    "email": "alimughalktech@gmail.com"
+    "email": "umark1142@gmail.com"
   },
   "require": {
     "php": ">=8.0",
